@@ -1,0 +1,15 @@
+{
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "chat.tools.terminal.autoApprove": {
+    "dotnet restore": true
+  },
+  "chat.instructionsFilesLocations": {
+    "~/.copilot/ai-tooling/copilot-instructions/dotnet": true
+  },
+  "chat.agentFilesLocations": {
+    "~/.copilot/ai-tooling/agents/dotnet": true
+  },
+  "chat.agentSkillsLocations": {
+    "~/.copilot/ai-tooling/skills/dotnet": true
+  }
+}
